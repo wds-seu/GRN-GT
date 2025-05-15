@@ -1,0 +1,88 @@
+Namespace(net='STRING', data='hESC', num=500)
+AUROC = 0.5996, AUPRC = 0.0362
+Namespace(net='STRING', data='hHEP', num=500)
+AUROC = 0.5200, AUPRC = 0.0362
+Namespace(net='STRING', data='mDC', num=500)
+AUROC = 0.5056, AUPRC = 0.0391
+Namespace(net='STRING', data='mESC', num=500)
+AUROC = 0.5338, AUPRC = 0.0291
+Namespace(net='STRING', data='mHSC-E', num=500)
+AUROC = 0.5647, AUPRC = 0.0463
+Namespace(net='STRING', data='mHSC-GM', num=500)
+AUROC = 0.7058, AUPRC = 0.1726
+Namespace(net='STRING', data='mHSC-L', num=500)
+AUROC = 0.6729, AUPRC = 0.2174
+Namespace(net='Specific', data='hESC', num=500)
+AUROC = 0.5701, AUPRC = 0.2063
+Namespace(net='Specific', data='hHEP', num=500)
+AUROC = 0.5854, AUPRC = 0.4470
+Namespace(net='Specific', data='mDC', num=500)
+AUROC = 0.3761, AUPRC = 0.0644
+Namespace(net='Specific', data='mESC', num=500)
+AUROC = 0.6145, AUPRC = 0.4618
+Namespace(net='Specific', data='mHSC-E', num=500)
+AUROC = 0.5020, AUPRC = 0.5696
+Namespace(net='Specific', data='mHSC-GM', num=500)
+AUROC = 0.4395, AUPRC = 0.4901
+Namespace(net='Specific', data='mHSC-L', num=500)
+AUROC = 0.5447, AUPRC = 0.5636
+Namespace(net='Non-Specific', data='hESC', num=500)
+AUROC = 0.5174, AUPRC = 0.0172
+Namespace(net='Non-Specific', data='hHEP', num=500)
+AUROC = 0.5283, AUPRC = 0.0179
+Namespace(net='Non-Specific', data='mDC', num=500)
+AUROC = 0.5134, AUPRC = 0.0203
+Namespace(net='Non-Specific', data='mESC', num=500)
+AUROC = 0.5426, AUPRC = 0.0184
+Namespace(net='Non-Specific', data='mHSC-E', num=500)
+AUROC = 0.5947, AUPRC = 0.0332
+Namespace(net='Non-Specific', data='mHSC-GM', num=500)
+AUROC = 0.6276, AUPRC = 0.0701
+Namespace(net='Non-Specific', data='mHSC-L', num=500)
+AUROC = 0.5982, AUPRC = 0.1309
+Namespace(net='Lofgof', data='mESC', num=500)
+AUROC = 0.6469, AUPRC = 0.3148
+Namespace(net='STRING', data='hESC', num=1000)
+AUROC = 0.5974, AUPRC = 0.0316
+Namespace(net='STRING', data='hHEP', num=1000)
+AUROC = 0.5130, AUPRC = 0.0286
+Namespace(net='STRING', data='mDC', num=1000)
+AUROC = 0.4868, AUPRC = 0.0331
+Namespace(net='STRING', data='mESC', num=1000)
+AUROC = 0.5485, AUPRC = 0.0272
+Namespace(net='STRING', data='mHSC-E', num=1000)
+AUROC = 0.5938, AUPRC = 0.0483
+Namespace(net='STRING', data='mHSC-GM', num=1000)
+AUROC = 0.7000, AUPRC = 0.1791
+Namespace(net='STRING', data='mHSC-L', num=1000)
+AUROC = 0.6406, AUPRC = 0.2272
+Namespace(net='Specific', data='hESC', num=1000)
+AUROC = 0.5963, AUPRC = 0.2234
+Namespace(net='Specific', data='hHEP', num=1000)
+AUROC = 0.5915, AUPRC = 0.4526
+Namespace(net='Specific', data='mDC', num=1000)
+AUROC = 0.3961, AUPRC = 0.0631
+Namespace(net='Specific', data='mESC', num=1000)
+AUROC = 0.6378, AUPRC = 0.4824
+Namespace(net='Specific', data='mHSC-E', num=1000)
+AUROC = 0.4771, AUPRC = 0.5399
+Namespace(net='Specific', data='mHSC-GM', num=1000)
+AUROC = 0.4661, AUPRC = 0.5262
+Namespace(net='Specific', data='mHSC-L', num=1000)
+AUROC = 0.5804, AUPRC = 0.5662
+Namespace(net='Non-Specific', data='hESC', num=1000)
+AUROC = 0.5223, AUPRC = 0.0163
+Namespace(net='Non-Specific', data='hHEP', num=1000)
+AUROC = 0.5558, AUPRC = 0.0190
+Namespace(net='Non-Specific', data='mDC', num=1000)
+AUROC = 0.5216, AUPRC = 0.0178
+Namespace(net='Non-Specific', data='mESC', num=1000)
+AUROC = 0.5517, AUPRC = 0.0174
+Namespace(net='Non-Specific', data='mHSC-E', num=1000)
+AUROC = 0.6308, AUPRC = 0.0357
+Namespace(net='Non-Specific', data='mHSC-GM', num=1000)
+AUROC = 0.6706, AUPRC = 0.0772
+Namespace(net='Non-Specific', data='mHSC-L', num=1000)
+AUROC = 0.5811, AUPRC = 0.0871
+Namespace(net='Lofgof', data='mESC', num=1000)
+AUROC = 0.6182, AUPRC = 0.2808
