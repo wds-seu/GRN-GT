@@ -19,3 +19,5 @@ The code used to split the data is in `Train_Test_Split`.
 Please see `GRN-GT/run_sh`.
 
 Download the DeepGene model parameters using this [link](https://drive.google.com/file/d/168GNy3zA8aqlZ1Wq8mR6aHthF3CLmczV/view?usp=drive_link) and put them in the directory `GRN-GT/gene_emb_model_params` after downloading.
+
+If you want to use DNABERT-2 as encoder, you can download the parameters using this [link](https://drive.google.com/file/d/10cGRs4igA-kDIBkke2X3rvYalvpRmwUK/view?usp=drive_link) and put them in the directory `DNABERT-2/` after downloading.
