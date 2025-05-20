@@ -1,5 +1,11 @@
 # GRN-GT
 
+------
+
+——By Yang Mingjie
+
+------
+
 We propose a gene regulatory network link prediction model, **GRN-GT**, based on graph neural networks. The GRN-GT model uses cDNA sequence information and single-cell gene expression data as features, with prior gene regulatory network links as labels, to perform node representation learning for gene regulatory networks. This ultimately enables link prediction as a downstream task. Specifically, the cDNA sequences are encoded using the gene sequence encoder **DeepGene**, and then feature fusion is performed with pre-processed single-cell gene expression data to initialize the nodes. During the training process, the impact of the loss function and decoding strategy on model performance is considered, and experiments are conducted across a wide range of datasets. The GRN-GT model demonstrates optimal average performance across 44 downstream task datasets.
 
 ## 1. Environment setup
@@ -21,3 +27,4 @@ Please see `GRN-GT/run_sh`.
 Download the DeepGene model parameters using this [link](https://drive.google.com/file/d/168GNy3zA8aqlZ1Wq8mR6aHthF3CLmczV/view?usp=drive_link) and put them in the directory `GRN-GT/gene_emb_model_params` after downloading.
 
 If you want to use DNABERT-2 as encoder, you can download the parameters using this [link](https://drive.google.com/file/d/10cGRs4igA-kDIBkke2X3rvYalvpRmwUK/view?usp=drive_link) and put them in the directory `DNABERT-2/` after downloading.
+
